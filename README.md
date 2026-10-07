@@ -232,4 +232,4 @@ Clash of Clans is the full free version with all features and updates included. 
 Ready to lead your clan to victory? Download Clash of Clans now and start your adventure today!
 
 ---
-**Last updated:** 2026-10-06 22:17:31 UTC
+**Last updated:** 2026-10-07 02:03:16 UTC
